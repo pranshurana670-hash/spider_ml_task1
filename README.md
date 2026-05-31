@@ -9,7 +9,7 @@ The repository is organized according to the required structure and contains imp
 
 1. **Base Task** – Fashion-MNIST Classification using PyTorch
 2. **Applied ML Domain Task** – Retrieval-Augmented Generation (RAG) Chatbot
-3. Research and Bonus task folders (if applicable)
+
 
 ---
 
